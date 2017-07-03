@@ -7,7 +7,7 @@ The following Python packeges are required:
 * Keras
 
 # Installation
-Either clone this repository or download a release zip-file and extract it somewhere.
+Download a release zip-file and extract it somewhere.
 
 # Wrapper functionality
 * Training your own network;
