@@ -2,12 +2,14 @@
 A Java wrapper around Keras
 
 # Prerequisites
-The following Python packeges are required:
+The following Python packages are required:
 * numpy
 * Keras
+The following Java packages are required:
+* com.onpositive.wordnet
 
 # Installation
-Download a release zip-file and extract it somewhere.
+Download a release zip-file and extract it.
 
 # Wrapper functionality
 * Training your own network;
