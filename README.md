@@ -1,6 +1,11 @@
 # wrapper
 A Java wrapper around Keras
 
+# Prerequisites
+The following Python packeges are required:
+* numpy
+* Keras
+
 # Installation
 Either clone this repository or download a release zip-file and extract it somewhere.
 
