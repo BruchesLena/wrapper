@@ -5,6 +5,7 @@ A Java wrapper around Keras
 The following Python packages are required:
 * numpy
 * Keras
+
 The following Java packages are required:
 * com.onpositive.wordnet
 
