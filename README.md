@@ -106,6 +106,8 @@ model.predict(DIRECTORY_WITH_DATA, 3, 5000);
 *Here in example 3 is the general number of batches (files) you want to get prediction for and 1500 is the general number of samples in a batch (file).
 For this demo you can use the corpus on the link above.*
 
+*Make sure that data and weights for the model are located in the same directory!*
+
 Once the predictions are made, corresponding files with results will be created in the directory with data.
 
 
