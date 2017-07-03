@@ -16,6 +16,11 @@ Download a release zip-file and extract it.
 * Training your own network;
 * Predicting classes for data using trained network
 
+# Available elements
+* Layers: Dense, BatchNormalization
+* Activation functions: relu, softmax
+* Algorithms: SGD
+
 # Demo example for training
 1. Create your own model:
 * Create an instance of Model:
